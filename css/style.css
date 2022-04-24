@@ -1,0 +1,30 @@
+body {
+    font: 20 px; font-family:Calibri;
+
+}
+
+.navbar {
+    background-color: #62e3cd;
+    
+}
+
+.quem-somos {
+    background-color:#dedede;
+    color: purple;
+}
+
+.margin {
+    padding-top:20px;
+    padding-bottom:50px;
+}
+
+.parceiros {
+    background-color:lightcoral;
+
+}
+
+.bg-footer {
+    background-color:black;
+    color:white;
+    padding:3px;
+}
