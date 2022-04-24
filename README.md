@@ -1,2 +1,2 @@
-# aula-boostrap
-Utilizando Boostrap
+# aula-bootstrap
+Utilizando Bootstrap
